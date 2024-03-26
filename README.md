@@ -1,3 +1,5 @@
+![mistral wind](./mistral_wind.png)
+
 # Mistral AI Text Generation Notebook
 
 This notebook demonstrates how to use the Mistral AI language model to generate text. The Mistral AI model is a transformer-based language model that has been fine-tuned for text generation tasks.
