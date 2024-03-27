@@ -6,7 +6,7 @@ This notebook demonstrates how to use the Mistral AI language model to generate 
 
 ## Installation
 
-To run this notebook, you will need to install the following packages:
+To run this notebook you will need Python 3.10 and you will need to install the following packages (the versions are there to ensure compatibility):
 
 * `langchain`==0.1.13
 * `huggingface`-hub==0.22.0
